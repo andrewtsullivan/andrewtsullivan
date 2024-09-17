@@ -1,18 +1,17 @@
-- 👋 Hi, I’m @andrewtsullivan
-- 👀 I’m interested in ...
+# 👋 Hi, I’m Andrew Sullivan
+# Some of my Interests
   - Electric Cars
   - Retrofuturism
   - 1950's aesthetic
   - Pepsi Cola
   - Linux and Open Source
-- 🌱 I’m currently learning ...
+# I’m currently learning
   - Python
   - C#
   - Javascript
-- 📫 How to reach me ...
-  - asullivandev@gmail.com
-- ⚡ Fun fact: ...
-  - Not many to share at the moment.  
+# 📫 How to reach me ...
+Email: [asullivandev@gmail.com](mailto:asullivandev@gmail.com)
+
 
 <!---
 andrewtsullivan/andrewtsullivan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
