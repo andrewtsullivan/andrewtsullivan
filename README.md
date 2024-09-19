@@ -1,14 +1,20 @@
 # 👋 Hi, I’m Andrew Sullivan
 # Some of my Interests
-  - Electric Cars
-  - Retrofuturism
-  - 1950's aesthetic
-  - Pepsi Cola
-  - Linux and Open Source
-# I’m currently learning
-  - Python
-  - C#
-  - Javascript
+ - Electric Cars
+ - Retrofuturism
+ - 1950's aesthetic
+ - Pepsi Cola
+ - Linux and Open Source
+
+# Currently 
+- RPGLE/CLLE/DDS
+- SQL
+
+# Currently learning
+ - Python
+ - C#
+ - Javascript
+
 # 📫 How to reach me ...
 Email: [asullivandev@gmail.com](mailto:asullivandev@gmail.com)
 
