@@ -6,7 +6,7 @@
  - Pepsi Cola
  - Linux and Open Source
 
-# Currently 
+# Currently Working in
 - RPGLE/CLLE/DDS
 - SQL
 
