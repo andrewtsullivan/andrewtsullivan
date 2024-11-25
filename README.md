@@ -12,6 +12,7 @@
 
 # Currently learning
  - Python
+ - Rust
  - C#
  - Javascript
 
